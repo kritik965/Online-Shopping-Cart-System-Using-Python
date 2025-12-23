@@ -1,1 +1,3 @@
 # Online-Shopping-Cart-System-Using-Python
+
+This project is a console-based Online Shopping Cart System developed using Python. It provides a menu-driven interface with five core options: view products, add items to the cart, view cart details, checkout, and exit. The system allows users to browse available products, manage selected items, calculate the total bill, and complete a simple checkout process while ensuring proper stock handling. This project is designed to demonstrate fundamental Python concepts such as object-oriented programming, data handling, conditional logic, and user interaction in a real-world e-commerce scenario.
